@@ -1,0 +1,26 @@
+{
+  "PreferenceFile": "UserPrefs.json",
+  "Languages": {
+    "English": "English",
+    "French": "Francais"
+  },
+  "FavoriteAnimalOptions": [
+    "Doggo",
+    "Parrot",
+    "Wolf",
+    "Fish",
+    "Elephant",
+    "Monke",
+    "Catto"
+  ],
+  "FavoriteNumberRange": [
+    0,
+    100
+  ],
+  "DefaultPrefs": {
+    "Language": "English",
+    "Animal": "Elephant",
+    "Number": 6,
+    "Name": "Evan"
+  }
+}

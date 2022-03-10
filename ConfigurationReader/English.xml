@@ -1,0 +1,5 @@
+<Language Name="English">
+  <Entry Key="hello">Hello.</Entry>
+  <Entry Key="goodbye">Goodbye.</Entry>
+  <Entry Key="enterName">Please enter your name:</Entry>
+</Language>
